@@ -14,7 +14,7 @@
   - 从 **[Issues](https://github.com/Naituw/WeiboX/issues)** 页面创建新的问题
 
 - 没有 Github 账号
-  - 从 WeiboX 官网中的 **[反馈](htto://weiboformac.sinaapp.com/issues)** 页面进行快速报告
+  - 从 WeiboX 官网中的 **[反馈](http://weiboformac.sinaapp.com/issues)** 页面进行快速报告
   - 如果愿意，请尽量填写联系信息，必要时我会联系你，确认问题的细节
   
 ## WeiboX Issue Tracking
@@ -32,4 +32,4 @@ Visit **[Issues](https://github.com/Naituw/WeiboX/issues)** page from the Github
 - If you have a Github account
   - Create issue in **[Issues](https://github.com/Naituw/WeiboX/issues)** page
 - Don't have Github account
-  - Report in WeiboX website's **[Issues](htto://weiboformac.sinaapp.com/issues)** page
+  - Report in WeiboX website's **[Issues](http://weiboformac.sinaapp.com/issues)** page
